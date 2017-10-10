@@ -1,0 +1,28 @@
+.offer{
+   background-color: white;
+   margin-bottom: 20px;
+}
+.details{
+    text-align: center;
+    padding: 10px;
+    font-family: sans-serif;
+}
+.details p{
+    font-size: x-large;
+}
+.btn-sm{
+    margin-left: 20px;
+}
+.title{
+    padding-top: 0;
+    padding-bottom: 20px;
+}
+.main-panel > .content {
+    padding: 5px 10px ;
+}
+
+.img-market{
+		width: 100%;
+	}
+	
+	
